@@ -4,6 +4,11 @@
 
 extern puertod_t portd;
 
+/* Titulo: Estructuras, Uniones y bittfields
+Programa que simula los LEDS de un puerto A y permite modificarlos mediante diferentes comandos.
+Autores: Ariel Martorell, Lucas Migone, Francisco Carricart, Juan Schinocca.
+*/
+
 int main(void)
 {
   char tecla;
